@@ -13,8 +13,7 @@ https://www.codester.com/items/29071/video-player-system-plyr-plugin-in-codeigni
 https://youtu.be/0-pB3fIqL0A
 
 
-https://www.codester.com/items/29071/video-player-system-plyr-plugin-in-codeigniter?ref=rana100
-
+https://www.piecex.com/source-code/Plyr-Video-Player-System-2714?affiliate=45
 
 # Features
 
