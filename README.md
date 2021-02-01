@@ -12,6 +12,10 @@ https://www.codester.com/items/29071/video-player-system-plyr-plugin-in-codeigni
 
 https://youtu.be/0-pB3fIqL0A
 
+
+https://www.codester.com/items/29071/video-player-system-plyr-plugin-in-codeigniter?ref=rana100
+
+
 # Features
 
 - 📼 **HTML Video & Audio, YouTube & Vimeo** - support for the major formats
