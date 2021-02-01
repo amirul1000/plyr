@@ -6,6 +6,10 @@ Plyr is a simple, lightweight, accessible and customizable HTML5, YouTube and Vi
 
 [![Image of Plyr](https://cdn.plyr.io/static/demo/screenshot.png?v=3)](https://plyr.io)
 
+
+
+https://www.codester.com/items/29071/video-player-system-plyr-plugin-in-codeigniter
+
 # Features
 
 - 📼 **HTML Video & Audio, YouTube & Vimeo** - support for the major formats
